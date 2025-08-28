@@ -1,5 +1,5 @@
 **Hawaiʻi Hangman**
-    A simple command-line word guessing game with a Hawaiʻi theme. The word bank includes islands, towns, food, local terms, animals, and landmarks. It’s basically hangman, but with words like lei, poi, and even humuhumunukunukuapuaa.
+A simple command-line word guessing game with a Hawaiʻi theme. The word bank includes islands, towns, food, local terms, animals, and landmarks. It’s basically hangman, but with words like lei, poi, and even humuhumunukunukuapuaa.
 
 **Features**
 • Big Hawaiʻi-inspired word list (islands, culture, food, nature, activities)

@@ -21,14 +21,9 @@ Guess a letter (or the whole word):
 
 Keep guessing until you either figure out the word or run out of attempts.
 
-Win message:
+**Win message:**
 🎉 Congratulations! You guessed the word: haleiwa
 
-Lose message:
+**Lose message:**
 Out of attempts! The word was: haleiwa
 
-**Customization**
-    Inside the code there’s a play() function you can tweak:
-
-play(attempts=8)   # fixed number of attempts
-play(words=["aloha","lei","hula"])   # your own word list

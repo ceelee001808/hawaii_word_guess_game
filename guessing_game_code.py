@@ -1,32 +1,40 @@
 import random
 
-WORDS = WORDS = [
+WORDS = [
     # islands
     "hawaii","oahu","maui","kauai","lanai","molokai","niihau","kahoolawe",
+    "kahuku","molokini","mokolii","mokuola",
     # places & landmarks
     "honolulu","waikiki","kailua","lahaina","haleiwa","kahului","kihei","paia",
     "kaneohe","kailuakona","kona","waimea","waipio","hanalei","poipu","kapaa",
     "lihue","makaha","kakaako","alamoana","kualoa","kaneohebay","manoafalls",
     "diamondhead","hanauma","kokocrater","kokohead","pololu","napali",
-    "haleakala","maunakea","maunaloa",
+    "haleakala","maunakea","maunaloa","kealakekua","kapalua","keauhou",
+    "waikoloa","keahole","makapu'u","kaena","pali",
     # culture & language
     "aloha","mahalo","ohana","keiki","kupuna","kapu","kuleana","pono",
     "kamaaina","lei","hula","mele","ukulele","luau","imu","heiau","ahupuaa",
+    "pahu","ili","kapa","laulima","paniolo","kahuna","kumu","lomi",
     # food
     "poi","laulau","poke","shaveice","spam","musubi","spammusubi","malasada",
-    "manapua","saimin","locomoco","lomisalmon",
-    #flowers and animals
+    "manapua","saimin","locomoco","lomisalmon","haupia","haupia","kalua",
+    "pipikaula","opihi","puka",
+    # flowers and animals
     "plumeria","hibiscus","pikake","lehua","kukui","koa","ohia","ti","niu",
     "nene","honu","seaturtle","monkseal",
-    "humuhumunukunukuapuaa","manta","dolphin","humpback","whale",
+    "humuhumunukunukuapuaa","manta","dolphin","humpback","whale","moa",
+    "pueo","alala","ulua","ula","pili","pueo","pohaku",
     # nature & vibes
     "pali","mauka","makai","lani","kai","volcano","lava","vog","tradewinds",
     "rainbow","sunrise","sunset","reef","coconut","pineapple","sugarcane",
-    "taro","kalo",
+    "taro","kalo","honu","lei","moana","hale","kula","wahi",
     # activities
     "surf","longboard","shortboard","outrigger","canoe","paddle","snorkel",
-    "diving","hiking"
+    "diving","hiking","fishing","kayaking","paragliding","camping","climbing",
+    # mythology & festivals
+    "pele","kamapua'a","laka","ku","maui","lei day","makahiki","huaka'i","hoolaulea",
 ]
+
 
 
 def play(words=WORDS, attempts=None):

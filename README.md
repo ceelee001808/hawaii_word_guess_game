@@ -3,11 +3,11 @@
 A simple command-line word guessing game with a Hawaiʻi theme. The word bank includes islands, towns, food, local terms, animals, and landmarks. It’s basically hangman, but with words like lei, poi, and even humuhumunukunukuapuaa.
 
 **Features**
-• Big Hawaiʻi-inspired word list (islands, culture, food, nature, activities)
-• Guess one letter at a time or try the whole word
-• Tracks wrong guesses and already used letters
-• Attempts scale with word length (minimum of 10 chances)
-• Works right in the terminal, no extra packages needed
+1.Big Hawaiʻi-inspired word list (islands, culture, food, nature, activities)
+2.Guess one letter at a time or try the whole word
+3. Tracks wrong guesses and already used letters
+4. Attempts scale with word length (minimum of 10 chances)
+5. Works right in the terminal, no extra packages needed
 
 **How to Play**
  1. Clone or download this repo.

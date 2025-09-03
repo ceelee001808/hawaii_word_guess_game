@@ -4,9 +4,9 @@ A simple command-line word guessing game with a Hawaiʻi theme. The word bank in
 
 **Features**
 
- 1.Big Hawaiʻi-inspired word list (islands, culture, food, nature, activities)
+  1.Big Hawaiʻi-inspired word list (islands, culture, food, nature, activities)
 
- 2.Guess one letter at a time or try the whole word
+  2.Guess one letter at a time or try the whole word
 
  3. Tracks wrong guesses and already used letters
 
